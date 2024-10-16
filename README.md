@@ -29,4 +29,4 @@ The request body of the API call looks something like this:
 ]
 }
 
-You can check the result using th e api
+You can check the result in postman using the api: http://localhost:8080/api/generate-pdf
