@@ -28,3 +28,5 @@ The request body of the API call looks something like this:
 }
 ]
 }
+
+You can check the result using th e api
